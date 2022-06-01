@@ -1,4 +1,4 @@
-###ようこそ 👋
+ようこそ 👋
 <h1 align="center">俺は バイバブ！</h1>
 - 🌱 I’m currently learning **Ruby on Rails**
 
