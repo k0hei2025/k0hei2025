@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vaibhav-verma-2a21141a4/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/blue" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-verma-2a21141a4/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
