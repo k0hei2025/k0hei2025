@@ -1,7 +1,7 @@
 ようこそ 👋
 <h1 align="center">俺は バイバブ！</h1>
-- An Passionate Business + Full Stack Developer **
-- Polygot 🇯🇵 🇮🇳+2 🇫🇷
+<h2 align="center"> An Passionate Business + Full Stack Developer </h2>
+<h3>- Polygot 🇯🇵 🇮🇳+2 🇫🇷</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
