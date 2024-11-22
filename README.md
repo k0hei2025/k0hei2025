@@ -7,9 +7,24 @@
 <a href="https://www.linkedin.com/in/vaibhav-verma-2a21141a4/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
 </p>
 
+<h3>Languages and Framework which i have knowledge</h3>
+- <h4>Frontend</h4>
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/redux/764ABC" />
+
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/recoil/3578E5" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/next/white" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/remix/ED2B88" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/vue/4FC08D" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/nuxt/00DC82" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/angular/0F0F11" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/jquery/0769AD" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/webpack/8DD6F9" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0hei2025&show_icons=true&theme=tokyonight) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0hei2025&layout=compact&hide=html,css,php&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
