@@ -15,7 +15,7 @@
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/remix/ED2B88" alt="Remix" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" alt="Nuxt.js" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/angular/0F0F11" alt="Angular" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/angular/A61200" alt="Angular" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />
