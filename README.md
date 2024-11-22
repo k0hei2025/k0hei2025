@@ -1,7 +1,13 @@
 <h1 align="center">俺は バイバブ！</h1>
+<div style={{display:"flex",justifyContent: "space-between"}}>
+<div>
 <h2> An Passionate Business + Full Stack Developer </h2>
 <h2> Polygot 🇯🇵 🇮🇳 🇫🇷</h2>
+</div>
 
+<img width="200" height="200" src="https://media2.giphy.com/media/13eQSAOGS4T076/100.webp?cid=ecf05e47hlxz5bgknr17nematrjfv65414f0elk4gz8lxulk&ep=v1_gifs_search&rid=100.webp&ct=g" />
+
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav-verma-2a21141a4/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
