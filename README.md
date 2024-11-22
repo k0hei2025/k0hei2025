@@ -10,6 +10,7 @@
 <h3>Languages and Framework which i have knowledge</h3>
 - <h4>Frontend</h4>
 <div style={{display:"flex"}}>
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/react/8DD6F9" />
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/recoil/3578E5" alt="Recoil" />
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" />
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/remix/ED2B88" alt="Remix" />
