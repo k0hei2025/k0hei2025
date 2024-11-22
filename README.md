@@ -1,11 +1,11 @@
 ようこそ 👋
 <h1 align="center">俺は バイバブ！</h1>
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 💬 Ask me about **Frontend**
+- An Passionate Business + Full Stack Developer **
+- Polygot 🇯🇵 🇮🇳+2 🇫🇷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/vaibhav-verma-2a21141a4/"><img src="https://e7.pngegg.com/pngimages/524/809/png-clipart-computer-icons-resume-linkedin-logo-job-hunting-others-blue-angle-thumbnail.png" width={200} height={200} /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
