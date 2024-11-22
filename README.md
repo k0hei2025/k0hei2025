@@ -66,7 +66,7 @@
 <div style={{display:'flex'}}>
 <img height="32" width="32" src="https://www.statsig.com/images/horz_logo.svg" />
 <img height="32" width="32" src="https://static.wingify.com/gcp/images/vwo-logo-color.svg" />
-<img height="32" width="32" src="https://logosandtypes.com/wp-content/uploads/2022/05/adjust.svg" />
+<img height="32" style={{backgroudColor:"white"}} width="32" src="https://logosandtypes.com/wp-content/uploads/2022/05/adjust.svg" />
 <img height="32" width="32" src="https://www.svgrepo.com/show/354332/sentry-icon.svg" />
 <img height="32" width="32" src="https://lh3.googleusercontent.com/pXwnRIoaONIMdvsUc9hqVqZXnI-2pvMvXp25O_29SOaX6yH08DLwnUzbYdxRBdDc6BOA7y9k-EIZiPEfpMChYCTmNUeEANPNiqvVFvYgwcVnnQkzKJg=w48-rw-v1" />
 
