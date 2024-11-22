@@ -32,6 +32,16 @@
 
 </div>
 
+- <h3>Backend</h3>
+<div style={{display:'flex'}}>
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/ruby/CC342D" alt="Ruby" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails/D30001" alt="Ruby on Rails" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/express/E7352C" alt="Express" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" />
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0hei2025&layout=compact&hide=html,css,php&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
