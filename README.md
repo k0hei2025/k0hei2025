@@ -10,18 +10,17 @@
 <h3>Languages and Framework which i have knowledge</h3>
 - <h4>Frontend</h4>
 <div style={{display:"flex"}}>
-<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" />
-<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/redux/764ABC" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/recoil/3578E5" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/nextjs/white" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/remix/ED2B88" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/vuejs/4FC08D" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/nuxt/00DC82" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/angular/0F0F11" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/jquery/0769AD" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/webpack/8DD6F9" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/recoil/3578E5" alt="Recoil" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/remix/ED2B88" alt="Remix" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" alt="Nuxt.js" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/angular/0F0F11" alt="Angular" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/webpack/8DD6F9" alt="Webpack" />
+
 </div>
 
 
