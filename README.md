@@ -15,7 +15,7 @@
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/recoil/3578E5" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/nextjs/white" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/remix/ED2B88" />
-<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/vue/4FC08D" />
+<img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/vuejs/4FC08D" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/nuxt/00DC82" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/angular/0F0F11" />
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/jquery/0769AD" />
