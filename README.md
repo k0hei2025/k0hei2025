@@ -1,4 +1,3 @@
-ようこそ 👋
 <h1 align="center">俺は バイバブ！</h1>
 <h2> An Passionate Business + Full Stack Developer </h2>
 <h2> Polygot 🇯🇵 🇮🇳 🇫🇷</h2>
