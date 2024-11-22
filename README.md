@@ -43,6 +43,13 @@
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" />
 </div>
 
+<div style={{display:"flex"}}> 
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="Amazon Web Services" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" /
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0hei2025&layout=compact&hide=html,css,php&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
