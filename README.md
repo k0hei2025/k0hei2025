@@ -43,6 +43,7 @@
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" />
 </div>
 
+- <h3> Infra & CI/CD </h3>
 <div style={{display:"flex"}}> 
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="Amazon Web Services" />
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" />
