@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vaibhav-verma-2a21141a4/"><img src="https://e7.pngegg.com/pngimages/524/809/png-clipart-computer-icons-resume-linkedin-logo-job-hunting-others-blue-angle-thumbnail.png" width={'20px'} height={'20px'} /> </a>
+<a href="https://www.linkedin.com/in/vaibhav-verma-2a21141a4/"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
