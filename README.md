@@ -71,7 +71,6 @@
 <img height="32" width="32" src="https://lh3.googleusercontent.com/pXwnRIoaONIMdvsUc9hqVqZXnI-2pvMvXp25O_29SOaX6yH08DLwnUzbYdxRBdDc6BOA7y9k-EIZiPEfpMChYCTmNUeEANPNiqvVFvYgwcVnnQkzKJg=w48-rw-v1" />
 
 </div> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0hei2025&layout=compact&hide=html,css,php&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0hei2025&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
