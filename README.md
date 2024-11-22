@@ -21,6 +21,14 @@
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" />
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" />
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/webpack/8DD6F9" alt="Webpack" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/storybook/FF4785" alt="Storybook" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/mantine/339AF0" alt="Mantine" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/mui/007FFF" alt="MUI" />
+<img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" />
+
 
 </div>
 
