@@ -3,7 +3,7 @@
 ### An Passionate Business + Full Stack Developer </b> 
   <img align="right" width="400" height="200" src="https://media2.giphy.com/media/13eQSAOGS4T076/100.webp?cid=ecf05e47hlxz5bgknr17nematrjfv65414f0elk4gz8lxulk&ep=v1_gifs_search&rid=100.webp&ct=g" />
 
-### Polygot 🇯🇵 🇮🇳 🇫🇷 
+### Polygot 🇯🇵 🇮🇳 🇫🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇺🇸
 </div>
 
 
