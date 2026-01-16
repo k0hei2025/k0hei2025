@@ -14,7 +14,7 @@
 
 <h3>Languages and Framework which i have knowledge</h3>
 
-<h3>Currently learning System design</h3>
+<h3>Currently learning System design :hammer_and_pick: </h3>
 
 - <h3>Frontend</h3>
 <div style={{display:"flex"}}>
