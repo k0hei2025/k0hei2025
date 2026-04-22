@@ -17,7 +17,7 @@
 <h3>Currently learning System design :hammer_and_pick: </h3>
 
 - <h3>Frontend</h3>
-<div style={{display: flex}}>
+<div style={{display: "flex"}}>
 <img style="margin:5" height="32" width="32" src="https://cdn.simpleicons.org/react/8DD6F9" />
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/recoil/3578E5" alt="Recoil" />
 <img style={{margin:5}} height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" />
